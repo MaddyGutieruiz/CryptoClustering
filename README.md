@@ -87,3 +87,5 @@ Use the elbow method to find the best value for k using the following steps:
 
 ## Results
 
+Jupyter Notebook file can be found here:
+https://github.com/MaddyGutieruiz/CryptoClustering/blob/main/Crypto_Clustering.ipynb
